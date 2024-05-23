@@ -37,3 +37,9 @@ Hierdoor wordt toch aangeraden om de mogelijkheid te behouden om de funties te b
 - Alle functies moeten bedienbaar zijn via je stem
 - Alle functies moeten bedienbaar zijn via een knop
 
+### Protocol & Report
+- Develop 2
+  - ‘Expert review’ en usability testen
+    - [protocol](https://docs.google.com/document/d/1J2uT2bz0IiTtfkOOzEpJFHWi2FQ4PWFlR1IyTbEtWrE/edit?usp=drive_link)
+    - [report](https://docs.google.com/document/d/1YVlJD95k1_EuGTGHB7vhReXmIWZ4h71dN8CKy2xkBy4/edit?usp=drive_link)
+
